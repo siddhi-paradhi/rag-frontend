@@ -15,7 +15,7 @@ This monorepo is a full-stack Retrieval-Augmented Generation (RAG) system built 
 - Supabase-based chat history (conversations + messages)
 - Feedback logging and message persistence
 
-### ⚙Backend
+### Backend
 - FastAPI endpoint: `/query` for LangGraph + Qdrant RAG answers
 - Source citations and follow-up generation
 - SSE-based streaming support
