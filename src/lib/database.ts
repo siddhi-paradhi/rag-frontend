@@ -42,7 +42,8 @@ export class DatabaseService {
     conversationId: string,
     type: 'user' | 'assistant',
     content: string,
-    sources?: string[]
+    sources?: string[],
+    followUps?: string[]
   ): Promise<Message> {
     const { data, error } = await supabase
       .from('messages')
@@ -50,7 +51,8 @@ export class DatabaseService {
         conversation_id: conversationId,
         type,
         content,
-        sources: sources || []
+        sources: sources || [],
+        follow_ups: followUps || []
       }])
       .select()
       .single()
