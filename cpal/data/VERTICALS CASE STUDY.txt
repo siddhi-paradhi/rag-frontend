@@ -1,0 +1,408 @@
+--- Popup 1 ---
+Popup Title: Video Streaming Solution on Private Network
+
+Customer situation:
+A leading telecom and broadcaster in Papua New Guinea aimed to extend Broadcast TV to multiscreen users via their private telecom network.
+
+Challenges:
+Complex existing online network.
+Video streaming needed to operate over the Internet Cloud.
+Cost optimization due to budget constraints.
+
+Action Taken:
+Conducted an in-depth study of the network diagram, workflow, and equipment.
+Provided project management and system integration.
+Identified and filled BOM (Bill of Materials) gaps.
+
+Results & Benefits:
+Successfully implemented streaming solution.
+Comprehensive system integration executed.
+Project was delivered within a systematic timeline.
+Proved expertise in video head-end systems.
+
+--- Popup 2 ---
+Popup Title: Seamless Video NOC Management
+
+Customer situation:
+Bharti Airtel set up a Video Network Operations Center (NOC) in Noida to uplink ~30 channels to satellites, needing skilled manpower for operations.
+
+Challenges:
+Managing live video network operations.
+Day-to-day handling of teleport and head-end operations.
+
+Action Taken:
+Provided skilled engineers for teleport services (uplinking/downlinking).
+Managed playout services for regional channels and seed management for a top sports channel.
+Ensured 24/7 technical support for uninterrupted teleport functioning.
+
+Results & Benefits:
+Effective and uninterrupted NOC management.
+Operational team to support
+complex video broadcast requirements.
+
+--- Popup 3 ---
+Popup Title: National Network Rollout for Enterprise Wi-Fi
+
+Customer situation:
+A major Indian telecom provider required end-to-end sales and presales support for enterprise wired and wireless connectivity solutions across India.
+
+Challenges:
+Tight rollout timelines.
+No permissible downtime at specific locations.
+Need for cost-effective yet quality-compliant solutions.
+Coordination with multiple OEMs and simultaneous multi-site execution.
+
+Action Taken:
+Delivered tailored sales and presales support based on customer preferences and standards.
+Executed smooth pan-India rollout using existing network.Provided technical presales solution design.
+
+Results & Benefits:
+Deployment of high-quality,cost-effective network.
+Smooth rollout with no business interruptions.
+
+--- Popup 4 ---
+Popup Title: Global Enterprise Presales Support
+
+Customer situation:
+A top Indian telecom’s global enterprise unit needed a partner to supply, install, and support broadcast, wired, and wireless solutions worldwide.
+
+Challenges:
+Required simultaneous global deployment.
+Urgent solution needs from end customers.
+High standards and future-proofing necessary.
+Coordination with multiple OEMs across geographies.
+
+Action Taken:
+Provided comprehensive presales support meeting international standards.Delivered full technical solution design and implementation support.
+Managed global installations efficiently, minimizing downtime.
+Installed during off-hours to avoid disruptions.
+
+Results & Benefits:
+Reliable presales support to global teams.
+Efficient, seamless global rollout
+with top-tier products.
+
+================================================================================
+
+URL: https://www.commediaindia.com/verticals/ver1
+Title: Commedia Solutions
+
+Video Streaming Solution on Private Network
+Seamless Video NOC Management
+National Network Rollout for Enterprise Wi-Fi
+Global Enterprise Presales Support
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: End-to-End IT Infrastructure for Chromaflo Technologies (Mumbai)
+
+Customer Situation:
+Chromaflo Technologies, a global supplier of colorant systems and pigment dispersions, needed a technology partner to set up, integrate, and manage their complete IT and networking infrastructure in Mumbai.
+
+Challenges:
+Handling multiple technologies (CISCO, Polycom, Avaya).
+Completing setup within a tight schedule.
+Ensuring smooth and ongoing support services post-deployment.
+
+Actions Taken:
+Designed and implemented the complete network infrastructure.
+Executed project management and system integration efficiently.
+Delivered round-the-clock IT and networking support.
+
+Results & Benefits:
+Successful and timely installation and commissioning.
+Customer could focus on core business areas.
+IT infrastructure management handled by Commedia.
+
+--- Popup 2 ---
+Popup Title: Wireless Network Infrastructure for CeX WeBuy (Mumbai)
+
+Customer Situation:
+CeX WeBuy, a global retail platform for technology and entertainment goods, required a robust and scalable wireless networking setup at their Mumbai office.
+
+Challenges:
+Meeting strict timelines for setup and delivery.
+Implementing high-speed wireless networking.
+
+Actions Taken:
+Designed and implemented network infrastructure using Ruckus Wireless technology.
+Managed the entire project lifecycle to ensure site readiness on schedule.
+Delivered a fast, cost-effective, and reliable wireless network.
+
+Results & Benefits:
+Seamless network setup and commissioning.
+On-time delivery enabled smooth business operations.
+Networking infrastructure optimized for performance.
+
+--- Popup 3 ---
+Popup Title: Multi-Location Wi-Fi & Office Automation for LeEco (India)
+
+Customer Situation:
+LeEco, a major Chinese technology brand, needed a full IT solution — including wired/wireless networking and office automation — across their Indian offices in Mumbai, Bangalore, and Gurugram.
+
+Challenges:
+Stringent project deadlines.
+Need for downtime-free installation at certain sites.
+Multi-site deployment involving multiple OEMs.
+
+Actions Taken:
+Selected high-quality products based on customer requirements.
+Deployed a full mesh, high-availability network using Cisco, Avaya, and Polycom solutions.
+
+Results & Benefits:
+High-performance IT infrastructure deployed.
+Timely rollout with no business impact.
+Delivered a scalable,future-ready solution.
+
+================================================================================
+
+URL: https://www.commediaindia.com/verticals/ver3
+Title: Commedia Solutions
+
+End-to-End IT Infrastructure for Chromaflo Technologies (Mumbai)
+Wireless Network Infrastructure for CeX WeBuy (Mumbai)
+Multi-Location Wi-Fi & Office Automation for LeEco (India)
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: Video Head-End Setup via Satellite & Fiber
+
+Customer situation:
+EMTV needed a video head-end for their SD channel on IS19, delivered via satellite and optical media across the main site and 4 remote locations.
+
+Challenges:
+Logistical hurdles in Papua New Guinea.
+Tight project timelines.
+Budget constraints and fiber cable laying.
+Integration with ABB CAS and Mux.
+
+Action Taken:
+Conducted detailed requirement analysis and built a solution using Thomson Compression.
+Planned logistics in advance.
+Installed RF and compression systems with precision.
+
+Results & Benefits:
+Successful network setup across multiple locations.
+Full system integration and timely execution.
+End-user training completed.
+
+--- Popup 2 ---
+Popup Title: Reduced Channel OPEX through Smart Network Upgrade
+
+Customer situation:
+A regional Indian channel wanted to add more channels to its uplink services, while optimizing space segment usage and reducing operational costs.
+
+Challenges:
+Cost-effective expansion without overhauling infrastructure.
+Migration to a new MCPC chain.
+Budget constraints and strict go-live timelines.
+
+Action Taken:
+Conducted full infrastructure and space segment audit.
+Devised innovative solutions using Harmonic Technology.
+Implemented scalable, flexible network upgrades.
+Recommended new technologies for future-proofing.
+
+Results & Benefits:
+Implementation within timelines for service.
+Enabled future network scalability.
+Multiple channels added with lower OPEX.
+
+--- Popup 3 ---
+Popup Title: 4.5M C Band TVRO Setup for Turnaround Services
+
+Customer situation:
+Client needed a 4.5M non-motorized C Band antenna system in Singapore for turnaround services, including full site survey, installation, and integration.
+
+Challenges:
+Poor soil conditions for foundation.
+Space constraints in the antenna farm.
+Tight project schedule.
+
+Action Taken:
+Selected suitable OEMs and coordinated imports.
+Managed logistics and partner coordination efficiently
+
+Results & Benefits:
+On-time deployment for site conditions.
+Robust and simple network setup.
+Full access to Commedia’s
+RF and satellite head-end expertise.
+
+--- Popup 4 ---
+Popup Title: Advanced Satellite Uplink with CAS Integration
+
+Customer situation:
+A top TV network in the Australian continent needed to modernize its uplink and video head-end setup to support better quality and more users with CAS.
+
+Challenges:
+Needed consolidation of uplink and head-end at HQ.
+Bandwidth optimization and operational cost reduction.
+Migration to advanced conditional access.
+Multi-OEM coordination and cost control.
+
+Action Taken:
+Detailed assessment of current infrastructure and capacities.
+Deployed next-gen encoders, multiplexers, optical systems, BUCs, and antennas.
+Used top-tier components from Thomson, Thor, CODAN, and Prodelin.
+
+Results & Benefits:
+High-performance video output and
+efficient bandwidth usage.
+Successful deployment supporting more users.
+Flexible and scalable architecture.
+
+--- Popup 5 ---
+Popup Title: Multi-Layer Compliance Monitoring System
+
+Customer situation:
+Disney needed a comprehensive compliance monitoring system for their live and upcoming channels across uplink/downlink operations.
+
+Challenges:
+Transitioning from SDI to full-chain monitoring.
+Required multi-viewer and internal network visibility.
+TS monitoring for numerous channels.
+
+Action Taken:
+Designed and implemented a tailored compliance monitoring solution.
+Included a Video Wall setup for broadcast and revenue teams.
+Provided full flexibility across different monitoring needs.
+
+Results & Benefits:
+Single unified platform for multiple monitoring tasks.
+Timely execution and deployment.
+Enhanced operational oversight
+across all Disney services.
+
+--- Popup 6 ---
+Popup Title: Enterprise MAM Platform Integration
+
+Customer situation:
+India’s national broadcaster needed a Media Asset Management (MAM) platform integrated with their existing Quantum storage and departmental workflows.
+
+Challenges:
+Required seamless integration with existing archive systems.
+Automation of ingest, transcoding, metadata management, and QC.
+Granular rights management and scalability.
+
+Action Taken:
+Delivered Dalet MAM platform customized for their workflow.
+Trained users to build custom workflows for ingest to distribution.
+Developed automated processes with QC and manual approvals.
+
+Results & Benefits:
+Best-in-class MAM platform successfully deployed.
+Seamless integration with minimal downtime.
+Future-proof design supporting playout
+and automation expansions.
+
+================================================================================
+
+URL: https://www.commediaindia.com/verticals/ver2
+Title: Commedia Solutions
+
+Video Head-End Setup via Satellite & Fiber
+Reduced Channel OPEX through Smart Network Upgrade
+4.5M C Band TVRO Setup for Turnaround Services
+Advanced Satellite Uplink with CAS Integration
+Multi-Layer Compliance Monitoring System
+Enterprise MAM Platform Integration
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: NOC Management Across 45 ISRO Centers (ISTRAC)
+
+Customer Situation:
+ISTRAC (a division of ISRO) required technically skilled manpower for managing Satcom operations, ensuring continuous communication and network services at 45 centers across India.
+
+Challenges:
+Handling complex and large-scale network infrastructure.
+Adhering to civil and regulatory compliance requirements.
+
+Actions Taken:
+Deployed a team of engineers to manage iDirect VSAT-based Satcom.
+Maintained video conferencing, voice, and data services.
+Provided round-the-clock troubleshooting, IOS upgrades, and network configuration support.
+
+Results & Benefits:
+Seamless NOC operation and network availability.
+Efficient, trained personnel managing critical
+ISRO communication infrastructure.
+
+--- Popup 2 ---
+Popup Title: Satellite Network with Redundancy for Mars Mission (ISRO)
+
+Customer Situation:
+For ISRO’s Mars mission, telemetry data from
+the Pacific Ocean needed to be securely transmitted to mission control using a ship-borne terminal, requiring high-availability and redundant satellite links.
+
+Challenges:
+Designing a network with multiple redundant and diverse paths.
+Complying with regulatory frameworks and coordinating among stakeholders.
+
+Actions Taken:
+Chose and coordinated with the right partners for sourcing and implementation.
+Managed the import and logistics of key components.
+Deployed orbit antennas,RF systems, modems, and completed full integration.
+
+Results & Benefits:
+Successful mission-critical communication setup.
+Fully redundant satellite and fiber path architecture.
+Delivered with Commedia’s expertise
+in satellite and RF systems.
+
+--- Popup 3 ---
+Popup Title: Enterprise MAM Platform Integration
+
+Customer Situation:
+Doordarshan Kendra Mumbai needed a robust Media Asset Management (MAM) platform that integrated with existing Quantum storage and archival systems, automating the ingest-to-playout workflow.
+
+Challenges:
+Seamless integration with existing storage and archive libraries.
+Designing a production MAM workflow with automated
+file ingest, transcoding, QC, and metadata tagging.
+
+Actions Taken:
+Chose the Dalet MAM platform for compatibility with existing systems.
+Built customized workflows and automated file movements from ingest to distribution.
+
+Results & Benefits:
+Fully integrated MAM system implemented.
+Reduced downtime with enterprise-ready platform.
+Future-proof solution enabling automated
+media handling and easy scalability.
+
+================================================================================
+
+URL: https://www.commediaindia.com/verticals/ver4
+Title: Commedia Solutions
+
+NOC Management Across 45 ISRO Centers (ISTRAC)
+Satellite Network with Redundancy for Mars Mission (ISRO)
+Enterprise MAM Platform Integration
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+

@@ -1,0 +1,541 @@
+--- Popup 1 ---
+Popup Title: Chhattisgarh Statewide Network
+
+Customer situation:
+Project for digital rural connectivity in Chhattisgarh.
+Statewide IP/MPLS fiber network for 6000 locations.
+Required high coordination and advanced infra.
+
+Challenges:
+Huge rollout with tight timelines.
+Geographic and LWE (Left-Wing Extremism) challenges.
+Largest fiber network with multiple stakeholders.
+
+Action Taken:
+Designed and validated complete IP/MPLS network.
+Deployed automation-based IP solutions.
+Delivered high-end project management and logistics.
+
+Results & Benefits:
+Future-ready network successfully implemented.
+Smooth project rollout with automation.
+Strengthened rural digital infrastructure.
+
+--- Popup 2 ---
+Popup Title: Data Center Tech Upgrade
+
+Customer situation:
+Government bank needed network upgrades.
+Focus on analytics, AAA, and firewall solutions.
+Design and upgrade existing infra.
+
+Challenges:
+Compatibility between old servers and new switches.
+Minimize downtime and switch copper to fiber.
+Stringent deadlines and tech alignment.
+
+Action Taken:
+Understood current infra and traffic flow.
+Installed/configured Nexus, Fortigate, and more.
+Ran 24x7 upgrade support with SLA management.
+
+Results & Benefits:
+Successfully upgraded DC and DR.
+Met all timelines.
+Received appreciation from the government.
+
+--- Popup 3 ---
+Popup Title: Banking Data Center Ops
+
+Customer situation:
+Required datacenter and DR site build.
+Needed managed services for both.
+High-level coordination with end-users.
+
+Challenges:
+SLA timelines, SOPs, and checklists.
+Full datacenter build with service coordination.
+Customer relationship handling.
+
+Action Taken:
+Provided HLD, LLD, and installed/configured infra.
+Delivered 24x7 operations and SLA management.
+Setup NOC for remote support and expedited delivery.
+
+Results & Benefits:
+Smooth project coordination.
+Strong tech and operations support.
+Seamless rollout of datacenter.
+
+--- Popup 4 ---
+Popup Title: Embassy WAN Deployment
+
+Customer situation:
+WAN network installation for 100+ embassies.
+Strict timeline for global rollout.
+Multiple cross-technologies involved.
+
+Challenges:
+Install and commission network at 108 sites.
+Use of OEM like Cisco (ASR, Nexus).
+Long-term support and maintenance.
+
+Action Taken:
+Complete site surveys and deployments.
+Managed design and implementation globally.
+Technical support setup for four years.
+
+Results & Benefits:
+Skilled team available globally.
+Seamless deployment with no business impact.
+Timely and successful implementation.
+
+--- Popup 5 ---
+Popup Title: Chromaflo Data Center Setup
+
+Customer situation:
+Needed a new datacenter and IT infrastructure.
+Required establishment of wireless and Juniper network.
+Integration in a constrained environment.
+
+Challenges:
+Build and support datacenter.
+Wireless network setup with Juniper.
+Interrupt-free integration.
+
+Action Taken:
+Used multiple technologies and redundancy.
+Implemented multiple user profiles.
+Followed global quality standards in SI and PMGT.
+
+Results & Benefits:
+Delivered datacenter & IT facilities.
+Provided reliable wireless and IPT network.
+Enabled provisioning of multiple services.
+
+================================================================================
+
+URL: https://www.commediaindia.com/case-studies/data-center
+Title: Commedia Solutions
+
+Chhattisgarh Statewide Network
+Data Center Tech Upgrade
+Banking Data Center Ops
+Embassy WAN Deployment
+Chromaflo Data Center Setup
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: SD-WAN Deployment for Retail Chain
+
+Customer situation:
+Bank needed to migrate MPLS to SDWAN across DC, DR, HO, and branches.
+Required hardware refresh and complete overlay setup.
+Targeted high-level coordination for 510+ branches.
+
+Challenges:
+SLA timelines and datacenter readiness.
+Hardware refresh in autonomous mode before SDWAN.
+Migrating branch routers remotely to controller mode.
+
+Action Taken:
+Assessed underlay design and device traffic.
+Installed and configured SDWAN components.
+Policy optimization, SLA management, and training programs.
+
+Results & Benefits:
+Seamless rollout for 510 branches.
+Strong coordination and NOC/Field support.
+High-level technology management and optimization.
+
+--- Popup 2 ---
+Popup Title: Indian Bank SDWAN Ops
+
+Customer situation:
+A major bank needed a Network Management & Monitoring Service (NMMS).
+Wanted to improve operations across 1932+ branches and 3500+ links.
+Required end-to-end WAN management and vendor coordination.
+
+Challenges:
+Complex transition from previous service provider.
+Coordination with multiple vendors.
+Maintaining consistent high uptime.
+
+Action Taken:
+Deployed on-site network team using bank-provided tools.
+Seamless transition management from old provider.
+Implemented SLAs to ensure performance.
+
+Results & Benefits:
+Improved network uptime via 24x7 monitoring.
+Enhanced operational efficiency.
+Scalability for new branches and links at no extra cost.
+
+--- Popup 3 ---
+Popup Title: Networking & Office Automation
+
+Customer situation:
+Chinese conglomerate setting up offices in India.
+Needed wired/wireless network and office automation.
+Commedia handled complete solution delivery.
+
+Challenges:
+Strict timelines and no downtime allowed.
+Cost-effective with high quality standards.
+Multi-location rollout with multiple OEMs.
+
+Action Taken:
+Deployed full mesh network with high availability.
+Used CISCO, Avaya, and Polycom systems.
+Work done during off-hours, delivered on time.
+
+Results & Benefits:
+Seamless deployment with top-class products.
+Zero disruption to business operations.
+Timely project completion.
+
+================================================================================
+
+URL: https://www.commediaindia.com/case-studies/sd-wan
+Title: Commedia Solutions
+
+SD-WAN Deployment for Retail Chain
+Indian Bank SDWAN Ops
+Networking & Office Automation
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: Secure Network Infrastructure for PSU
+
+Customer situation:
+Service provider needed managed SOC operations for a bank.
+Included deployment of L1-L3 and Shift Leads for PAN-India service.
+
+Challenges:
+SLA-based timelines and SOP adherence.
+Response time improvement and customer handling.
+Tech coordination across 25+ security platforms.
+
+Action Taken:
+Delivered managed services across 25+ technologies.
+Deployed 59+ resources across multiple levels.
+24x7 operations, NOC configuration.
+
+Results & Benefits:
+High-level coordination and smooth rollout.
+Strong tech + project management.
+Effective 24x7 operations with advanced tools.
+
+--- Popup 2 ---
+Popup Title: LIC Collaboration Systems
+
+Customer situation:
+LIC needed to upgrade over 100 boardrooms across India.
+Existing UC tech was outdated and needed migration to Cisco UC.
+Included full VC infrastructure including DC in Hyderabad.
+
+Challenges:
+Rapid site surveys for architectural adjustments.
+Installation of large, complex VC devices.
+High-end aesthetics and quality expectations in boardrooms.
+
+Action Taken:
+Conducted site surveys and captured all requirements.
+Installed ROOM70D and KITPLUS VC endpoints across locations.
+Set up call managers, meeting servers, and configured all licenses and features.
+
+Results & Benefits:
+Entire VC migration project completed successfully
+across multiple locations.
+Customer satisfied with Cisco’s advanced
+VC features and call flows.
+
+--- Popup 3 ---
+Popup Title: Fortinet Device Migration
+
+Customer situation:
+Bank migrating to FortiGate 3001F firewalls for DC and DR.
+Needed centralized configuration and monitoring.
+
+Challenges:
+High availability firewall setup.
+Centralized management via FortiManager.
+Version control, policy migration, and software updates.
+
+Action Taken:
+Analyzed existing security architecture thoroughly.
+Deployed hyperscale FortiGate FWs, managed via FMG/FAZ.
+Migrated and configured policies, centralized log and event monitoring.
+
+Results & Benefits:
+Highly secure FortiGate deployment.
+Template-based configuration and reporting.
+Customized solution delivery per bank’s needs.
+
+--- Popup 4 ---
+Popup Title: ISRO Shipborne Terminal
+
+Customer situation:
+Mission-critical communication for ISRO’s Mars Orbiter Mission.
+Two major stations set up in deep sea.
+Needed long-distance data transmission (TTC).
+
+Challenges:
+Remote deep-sea locations with complex logistics.
+Mission-critical TTC data transmission.
+Regulatory compliance and coordination.
+
+Action Taken:
+Partnered with ST for implementation.
+Designed innovative and robust solutions.
+Implemented fully redundant communication paths.
+
+Results & Benefits:
+Enabled successful launch and mission tracking.
+Reliable and uninterrupted data transfer.
+
+================================================================================
+
+URL: https://www.commediaindia.com/case-studies/network-security
+Title: Commedia Solutions
+
+Secure Network Infrastructure for PSU
+LIC Collaboration Systems
+Fortinet Device Migration
+ ISRO Shipborne Terminal
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: Campus-wide Wireless Deployment
+
+Customer situation:
+Aruba wireless deployment across 100 PAN-India petroleum sites.
+Required high-security, long-term support.
+
+Challenges:
+Coordination across multiple fuel stations.
+Software/hardware integration with Radius Auth.
+Project management across locations.
+
+Action Taken:
+Aruba APs, switches, Radius setup.
+Five-year support and monitoring.
+End-to-end infrastructure deployment.
+
+Results & Benefits:
+Seamless rollout and integration.
+Reliable WiFi for all users.
+
+--- Popup 2 ---
+Popup Title: Cisco Meraki WiFi Project
+
+Customer situation:
+Health insurer needed to migrate from traditional APs to Cisco Meraki WiFi.
+60 APs across four floors.
+
+Challenges:
+Seamless network transition.
+Radius server integration.
+Ensure roaming and throughput.
+
+Action Taken:
+POC and close customer collaboration.
+Heat map and solution design.
+Full implementation with Meraki Dashboard.
+
+Results & Benefits:
+Roaming + high-speed WiFi.
+Real-time cloud monitoring.
+Smooth connectivity across all zones.
+
+--- Popup 3 ---
+Popup Title: Railway WiFi Execution
+
+Customer situation:
+Indian Railways aimed to connect over 4791 stations to WiFi.
+Tight 60-day delivery window.
+Required quality and zonal execution.
+
+Challenges:
+High-scale deployment in 60 days.
+Permissions and multilevel coordination.
+High-tech integration across zones.
+
+Action Taken:
+Zonal rollout strategy with shadow teams.
+Used mobile app for project tracking and QC.
+Round-the-clock NOC enabled faster execution.
+
+Results & Benefits:
+Target achieved with appreciation.
+High-quality execution across India.
+Multi-location rollout success.
+
+--- Popup 4 ---
+Popup Title: LeEco IT Infrastructure
+
+Customer situation:
+LeEco needed high-availability IT and wireless infra in Bangalore.
+Multiple media formats to integrate.
+Required flexible, fast delivery.
+
+Challenges:
+High-performance platform requirement.
+Integration of media types and large user base.
+Stringent delivery schedules.
+
+Action Taken:
+Cisco networking + Dell server deployment.
+Built secure and scalable network.
+Followed global SI/PMGT standards.
+
+Results & Benefits:
+Delivered a high-performance network.
+Fast-tracked project completion.
+Enabled flexible services and expansion.
+
+--- Popup 5 ---
+Popup Title: CeX Wireless Setup
+
+Customer situation:
+CeX needed wireless infrastructure in a constrained retail environment in Mumbai.
+Required high-density user support.
+Wanted uninterrupted operations within deadlines.
+
+Challenges:
+Establish network in space-limited environment.
+Integrate without disrupting operations.
+Meet tight project timelines.
+
+Action Taken:
+Used Ruckus-based wireless products.
+Implemented 802.11ac wireless tech.
+Maintained international cabling and SI standards.
+
+Results & Benefits:
+Reliable, high-density wireless network.
+Cost-effective, scalable wireless solution.
+
+================================================================================
+
+URL: https://www.commediaindia.com/case-studies/wireless-networking
+Title: Commedia Solutions
+
+Campus-wide Wireless Deployment
+Cisco Meraki WiFi Project
+Railway WiFi Execution
+LeEco IT Infrastructure
+CeX Wireless Setup
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
+--- Popup 1 ---
+Popup Title: OTT Delivery Network Optimization
+
+Customer situation:
+LIC had 100+ offices with outdated UC tech nearing end of life.
+Required migration to Cisco UC across all boardrooms, including Hyderabad DC.
+Needed improved multiparty video conferencing infrastructure.
+
+Challenges:
+Tight timeframe for site surveys and implementation.
+Physically large and complex devices requiring architectural adaptation.
+High-end boardroom aesthetics and quality expectations.
+
+Action Taken:
+Conducted detailed site surveys and pre-install readiness.
+Deployed Cisco ROOM70D, KITPLUS endpoints.
+Installed Call Manager & Meeting Servers at DC.
+Configured all features and licenses.
+
+Results & Benefits:
+Successfully completed multi-location migration.
+Improved call flow with Cisco Advanced VC.
+High customer satisfaction.
+
+--- Popup 2 ---
+Popup Title: Live Stadium Broadcast Delivery
+
+Customer situation:
+Service provider needed professional services to deliver live content.
+Stadiums already fiber-connected, required last-mile content handling.
+
+Challenges:
+No tolerance for downtime during live events.
+Required zero-failure, highly available system.
+Skilled manpower needed for monitoring and quality assurance.
+Coordination across Stadium, NOC, and studios.
+
+Action Taken:
+Partnered with TATA to develop stadium broadcast product.
+Delivered professional monitoring and integration services.
+Enabled connectivity between Stadium, NOC, and Studios.
+Provided support within studios.
+
+Results & Benefits:
+Smooth live broadcast delivery with zero failures.
+High-quality experience monitoring and deployment.
+Timely execution across all stadiums and venues.
+
+--- Popup 3 ---
+Popup Title: Telco Streaming Upgrade
+
+Customer situation:
+Leading telecom & broadcasting company in Papua New Guinea.
+Wanted to offer multiscreen TV services over a private network.
+Required a full digital media streaming setup.
+
+Challenges:
+Complex integration with existing online network infrastructure.
+Needed cloud streaming support within strict budget limits.
+Accurately estimating and scaling for user base was critical.
+
+Action Taken:
+Detailed analysis of network and workflow requirements.
+Project management and system integration executed by Commedia.
+Implemented Harmonic VS7000 and WOWZA-based streaming platform.
+
+Results & Benefits:
+Delivered scalable and robust streaming solution.
+Maintained timeline with seamless implementation.
+Enabled multi-format streaming across devices.
+
+================================================================================
+
+URL: https://www.commediaindia.com/case-studies/digital-media
+Title: Commedia Solutions
+
+OTT Delivery Network Optimization
+Live Stadium Broadcast Delivery
+Telco Streaming Upgrade
+Commedia Solutions Private Ltd.408, Shelton Cubix, Sector 15,Plot no.87, CBD Belapur, Navi Mumbai - 400 614
++91 22 4965 8000
+✉ sales@commediaindia.com
+www.commediaindia.com
+
+================================================================================
+
+
