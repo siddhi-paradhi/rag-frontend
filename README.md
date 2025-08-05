@@ -1,6 +1,6 @@
 # RAG Assistant Frontend & Backend (Fullstack FastAPI + Next.js)
 
-This monorepo is a full-stack Retrieval-Augmented Generation (RAG) system built for Commedia Solutions, combining:
+This monorepo is a full-stack Retrieval-Augmented Generation (RAG) system, combining:
 
 - **Frontend** using Next.js 14 with App Router, Tailwind, and ShadCN
 - **Backend API** using FastAPI, LangGraph, Qdrant, and HuggingFace embeddings
